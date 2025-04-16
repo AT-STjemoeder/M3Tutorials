@@ -713,8 +713,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerName: attack
-  delay: 0.5
-  resetTime: 1
+  delay: 0.25
+  resetTime: 2
   triggerKey: 0
 --- !u!1001 &403504843
 PrefabInstance:
@@ -3043,6 +3043,10 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1696838485}
+    - target: {fileID: 1280605532618727757, guid: bc377f0082aa0104cb605344b5afd258, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3128310768501744092, guid: bc377f0082aa0104cb605344b5afd258, type: 3}
       propertyPath: m_Height
       value: 2
@@ -3090,6 +3094,10 @@ PrefabInstance:
     - target: {fileID: 3218977627260130236, guid: bc377f0082aa0104cb605344b5afd258, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4190797681997906452, guid: bc377f0082aa0104cb605344b5afd258, type: 3}
+      propertyPath: m_Constraints
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4799179903535938748, guid: bc377f0082aa0104cb605344b5afd258, type: 3}
       propertyPath: m_LocalPosition.x
