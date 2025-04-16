@@ -9,7 +9,8 @@ https://github.com/AT-STjemoeder/M3Tutorials/blob/main/My%20project/Assets/scrip
 https://github.com/AT-STjemoeder/M3Tutorials/blob/main/My%20project/Assets/script/KeepScore.cs = voor de score telling
 
 https://github.com/AT-STjemoeder/M3Tutorials/blob/main/My%20project/Assets/script/GetPickup.cs = voor de pickup items
-![prog](https://github.com/user-attachments/assets/7021deb6-7cca-44bb-8ca2-9214c0c5a791)animatie, bewegen zonder roteren = tutorial 1+2
+
+![prog](https://github.com/user-attachments/assets/7021deb6-7cca-44bb-8ca2-9214c0c5a791) animatie, bewegen zonder roteren = tutorial 1+2
 
 https://github.com/AT-STjemoeder/M3Tutorials/blob/main/My%20project/Assets/script/movebasic.cs = beweging zonder rotatie
 
